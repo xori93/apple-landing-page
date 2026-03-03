@@ -1,5 +1,3 @@
-import React from "react";
-
 const Footer = () => {
   return (
     <div className="flex justify-around py-8 px-4 font-semibold text-lg'">

@@ -1,5 +1,3 @@
-import React from 'react'
-
 type NavbarProps = {
   appleLogo: string;
   search: string;

@@ -1,6 +1,3 @@
-import React from 'react'
-
-
 type HeaderProp = {
   title: string
   description: string
